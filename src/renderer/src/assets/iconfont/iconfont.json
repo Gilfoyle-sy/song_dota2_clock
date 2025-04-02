@@ -1,0 +1,100 @@
+{
+  "id": "4545079",
+  "name": "dota2-plus",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "34452944",
+      "name": "time-task-fill",
+      "font_class": "time-task-fill",
+      "unicode": "e836",
+      "unicode_decimal": 59446
+    },
+    {
+      "icon_id": "34453024",
+      "name": "move",
+      "font_class": "move",
+      "unicode": "e844",
+      "unicode_decimal": 59460
+    },
+    {
+      "icon_id": "34453055",
+      "name": "settings-fill",
+      "font_class": "settings-fill",
+      "unicode": "e845",
+      "unicode_decimal": 59461
+    },
+    {
+      "icon_id": "34452949",
+      "name": "time-fill",
+      "font_class": "time-fill",
+      "unicode": "e834",
+      "unicode_decimal": 59444
+    },
+    {
+      "icon_id": "34452954",
+      "name": "add-btn-fill",
+      "font_class": "add-btn-fill",
+      "unicode": "e835",
+      "unicode_decimal": 59445
+    },
+    {
+      "icon_id": "34452969",
+      "name": "delete-fill",
+      "font_class": "delete-fill",
+      "unicode": "e839",
+      "unicode_decimal": 59449
+    },
+    {
+      "icon_id": "34453013",
+      "name": "mute-fill",
+      "font_class": "mute-fill",
+      "unicode": "e83d",
+      "unicode_decimal": 59453
+    },
+    {
+      "icon_id": "34453027",
+      "name": "left-btn-fill",
+      "font_class": "left-btn-fill",
+      "unicode": "e83e",
+      "unicode_decimal": 59454
+    },
+    {
+      "icon_id": "34453028",
+      "name": "notice-fill",
+      "font_class": "notice-fill",
+      "unicode": "e83f",
+      "unicode_decimal": 59455
+    },
+    {
+      "icon_id": "34453033",
+      "name": "play-fill",
+      "font_class": "play-fill",
+      "unicode": "e840",
+      "unicode_decimal": 59456
+    },
+    {
+      "icon_id": "34453040",
+      "name": "right-btn-fill",
+      "font_class": "right-btn-fill",
+      "unicode": "e841",
+      "unicode_decimal": 59457
+    },
+    {
+      "icon_id": "34453060",
+      "name": "stop-fill",
+      "font_class": "stop-fill",
+      "unicode": "e842",
+      "unicode_decimal": 59458
+    },
+    {
+      "icon_id": "34453064",
+      "name": "suspend-fill",
+      "font_class": "suspend-fill",
+      "unicode": "e843",
+      "unicode_decimal": 59459
+    }
+  ]
+}

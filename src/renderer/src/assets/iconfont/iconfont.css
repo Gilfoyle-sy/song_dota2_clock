@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4545079 */
+  src: url('iconfont.woff2?t=1715650263423') format('woff2'),
+       url('iconfont.woff?t=1715650263423') format('woff'),
+       url('iconfont.ttf?t=1715650263423') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-time-task-fill:before {
+  content: "\e836";
+}
+
+.icon-move:before {
+  content: "\e844";
+}
+
+.icon-settings-fill:before {
+  content: "\e845";
+}
+
+.icon-time-fill:before {
+  content: "\e834";
+}
+
+.icon-add-btn-fill:before {
+  content: "\e835";
+}
+
+.icon-delete-fill:before {
+  content: "\e839";
+}
+
+.icon-mute-fill:before {
+  content: "\e83d";
+}
+
+.icon-left-btn-fill:before {
+  content: "\e83e";
+}
+
+.icon-notice-fill:before {
+  content: "\e83f";
+}
+
+.icon-play-fill:before {
+  content: "\e840";
+}
+
+.icon-right-btn-fill:before {
+  content: "\e841";
+}
+
+.icon-stop-fill:before {
+  content: "\e842";
+}
+
+.icon-suspend-fill:before {
+  content: "\e843";
+}
+
